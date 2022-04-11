@@ -7,6 +7,9 @@ public class MyGit {
         System.out.println("Hello happy new day");
         int a=8;
         int b=15;
+        System.out.println(a);
+        System.out.println(b);
+
 
     }
 }
